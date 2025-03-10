@@ -1,2 +1,2 @@
 # KALIMA
-KALIMA dataset is ...
+KALIMA dataset is an 
