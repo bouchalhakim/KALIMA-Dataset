@@ -1,3 +1,5 @@
+![KALIMA](/KALIMA_log.jpg)
+
 # KALIMA-Dataset
 
 To support the development of deep learning models, large datasets with precise ground truth annotations are essential for training and evaluating different methods. Although recent efforts have produced a variety of datasets tailored for specific tasks, there remains a notable gap in the availability of comprehensive datasets with diverse annotation schemes suitable for multiple applications. In response, we have undertaken the creation of a meticulously annotated dataset, specifically designed to facilitate text line detection and recognition.
