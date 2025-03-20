@@ -21,7 +21,8 @@ This data set is intended for research purposes only. If you wish to use the dat
 }
 
 Hakim, B., Ahror, B., & Farid, M. (2025). Towards Accurate Recognition of Historical Arabic Manuscripts A Novel Dataset and a Generalizable Pipeline. ACM Trans. Asian Low-Resour. Lang. Inf. Process.
-------------------------------------------------------------
+
+
 @INPROCEEDINGS{231207573,  
     author = {Hakim, Bouchal and Ahror, Belaid},\
     title = {Arabic Handwritten Text Line Dataset},\
