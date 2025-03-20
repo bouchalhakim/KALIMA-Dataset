@@ -1,5 +1,5 @@
 [//]: ![KALIMA](/KALIMA_log.jpg)
-<img src="/KALIMA_log.jpg" alt="Texte alternatif"  width="1170"  height="200">
+<img src="/KALIMA_log.jpg" alt="Texte alternatif"  width="396"  height="200">
 
 
 # KALIMA-Dataset
