@@ -17,7 +17,7 @@ This data set is intended for research purposes only. If you wish to use the dat
    keywords = {Arabic word, Historical Arabic document, Data annotation, Arabic dataset, Word detection},
 }
 
-// Bouchal, H., & Belaid, A. (2022). Arabic Handwritten Text Line Dataset. TAMARICS’2022 Conference Held on December 8-11,2022 at University of Tamenghasset, Algeria. doi:10.48550/arXiv.2312.07573
+Bouchal, H., & Belaid, A. (2022). Arabic Handwritten Text Line Dataset. TAMARICS’2022 Conference Held on December 8-11,2022 at University of Tamenghasset, Algeria. doi:10.48550/arXiv.2312.07573
 
 @article{HBABFM,
     author = {Hakim,Bouchal and Ahror, Belaid and Farid, Meziane},
