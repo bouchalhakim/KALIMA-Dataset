@@ -6,7 +6,7 @@ KALIMA is a public data collection comprised of 116 manuscript pages from a dive
 
 
 # Citation
-This data set is intended for research purposes only. If you wish to use the dataset for purposes other than research, you must obtain our explicit consent.
+<>This data set is intended for research purposes only. If you wish to use the dataset for purposes other than research, you must obtain our explicit consent.
 
 @INPROCEEDINGS{231207573,
     author = {Hakim Bouchal and Ahror Belaid},
