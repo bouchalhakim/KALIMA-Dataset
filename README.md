@@ -1,6 +1,6 @@
 [//]: ![KALIMA](/KALIMA_log.jpg)
-[//]: <img src="/KALIMA_log.jpg" alt="Texte alternatif"  width="1170"  height="300">
-<img src="/KALIMA_log.jpg" alt="Texte alternatif" style="largeur : 30 % ;  hauteur: auto ;">
+<img src="/KALIMA_log.jpg" alt="Texte alternatif"  width="1170"  height="200">
+
 
 # KALIMA-Dataset
 
