@@ -12,7 +12,7 @@ KALIMA is a public data collection comprised of 116 manuscript pages from a dive
 ### Citation
 This data set is intended for research purposes only. If you wish to use the dataset for purposes other than research, you must obtain our explicit consent.
 
-@INPROCEEDINGS{231207573,
+@INPROCEEDINGS{231207573,**  **
     author = {Hakim Bouchal and Ahror Belaid},
     title = {Arabic Handwritten Text Line Dataset},
    booktitle={TAMARICS'2022 Conference held on December 8-11,2022 at University of Tamenghasset, Algeria},
